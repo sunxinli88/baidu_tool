@@ -1,0 +1,174 @@
+2016-11-29 09:49:03 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 09:49:03 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=211965DC1702C5AD13A70FB148013575&timestamp=2016-11-29 09:49:03
+2016-11-29 09:49:03 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 09:49:04 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-29 09:49:05 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-29 09:49:06 INFO  org.mongodb.driver.cluster(line-76)  - Exception in monitor thread while connecting to server 127.0.0.1:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:63)
+	at com.mongodb.connection.InternalStreamConnection.open(InternalStreamConnection.java:114)
+	at com.mongodb.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:128)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:50)
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:58)
+	... 3 more
+2016-11-29 09:49:34 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 09:49:34 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=A2476BC284B0FCD0E470ECC37ACF6DFE&timestamp=2016-11-29 09:49:34
+2016-11-29 09:49:34 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 09:49:34 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-29 09:49:34 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-29 09:49:35 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='http://drugs.dxy.cn/drug/4024.htm', method='null', extras={statusCode=200}, priority=0} error
+com.mongodb.MongoTimeoutException: Timed out after 30000 ms while waiting for a server that matches WritableServerSelector. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
+	at com.mongodb.connection.BaseCluster.createTimeoutException(BaseCluster.java:369)
+	at com.mongodb.connection.BaseCluster.selectServer(BaseCluster.java:101)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:75)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:71)
+	at com.mongodb.binding.ClusterBinding.getWriteConnectionSource(ClusterBinding.java:68)
+	at com.mongodb.operation.OperationHelper.withConnection(OperationHelper.java:219)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:168)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:74)
+	at com.mongodb.Mongo.execute(Mongo.java:781)
+	at com.mongodb.Mongo$2.execute(Mongo.java:764)
+	at com.mongodb.MongoCollectionImpl.executeSingleWriteRequest(MongoCollectionImpl.java:515)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:306)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:297)
+	at com.seassoon.utils.MongoDBUtils.insert(MongoDBUtils.java:109)
+	at com.seassoon.clim.medicine.MagicPipline.process(MagicPipline.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:425)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-29 09:49:35 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=B0266AFABD43E8E829EE69A343481EE7&timestamp=2016-11-29 09:49:35
+2016-11-29 09:49:35 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 09:49:35 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]}. Waiting for 30000 ms before timing out
+2016-11-29 09:49:35 INFO  org.mongodb.driver.cluster(line-76)  - Exception in monitor thread while connecting to server 127.0.0.1:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:63)
+	at com.mongodb.connection.InternalStreamConnection.open(InternalStreamConnection.java:114)
+	at com.mongodb.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:128)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:50)
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:58)
+	... 3 more
+2016-11-29 09:50:04 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='http://drugs.dxy.cn/drug/4024.htm', method='null', extras={statusCode=200}, priority=0} error
+com.mongodb.MongoTimeoutException: Timed out after 30000 ms while waiting for a server that matches WritableServerSelector. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
+	at com.mongodb.connection.BaseCluster.createTimeoutException(BaseCluster.java:369)
+	at com.mongodb.connection.BaseCluster.selectServer(BaseCluster.java:101)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:75)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:71)
+	at com.mongodb.binding.ClusterBinding.getWriteConnectionSource(ClusterBinding.java:68)
+	at com.mongodb.operation.OperationHelper.withConnection(OperationHelper.java:219)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:168)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:74)
+	at com.mongodb.Mongo.execute(Mongo.java:781)
+	at com.mongodb.Mongo$2.execute(Mongo.java:764)
+	at com.mongodb.MongoCollectionImpl.executeSingleWriteRequest(MongoCollectionImpl.java:515)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:306)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:297)
+	at com.seassoon.utils.MongoDBUtils.insert(MongoDBUtils.java:109)
+	at com.seassoon.clim.medicine.MagicPipline.process(MagicPipline.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:425)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-29 09:50:04 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=B9E2320E85E31CCF7CA4E55052FFED35&timestamp=2016-11-29 09:50:04
+2016-11-29 09:50:04 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 09:50:05 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr', method='POST', extras={nameValuePair=[Lorg.apache.http.message.BasicNameValuePair;@7843f1d7, statusCode=200}, priority=0} error
+com.mongodb.MongoTimeoutException: Timed out after 30000 ms while waiting for a server that matches WritableServerSelector. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
+	at com.mongodb.connection.BaseCluster.createTimeoutException(BaseCluster.java:369)
+	at com.mongodb.connection.BaseCluster.selectServer(BaseCluster.java:101)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:75)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:71)
+	at com.mongodb.binding.ClusterBinding.getWriteConnectionSource(ClusterBinding.java:68)
+	at com.mongodb.operation.OperationHelper.withConnection(OperationHelper.java:219)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:168)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:74)
+	at com.mongodb.Mongo.execute(Mongo.java:781)
+	at com.mongodb.Mongo$2.execute(Mongo.java:764)
+	at com.mongodb.MongoCollectionImpl.executeSingleWriteRequest(MongoCollectionImpl.java:515)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:306)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:297)
+	at com.seassoon.utils.MongoDBUtils.insert(MongoDBUtils.java:109)
+	at com.seassoon.clim.medicine.MagicPipline.process(MagicPipline.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:425)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-29 09:50:05 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]}. Waiting for 30000 ms before timing out
+2016-11-29 09:50:14 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 09:50:14 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=E66A9A838E66C78C528CA6E98F7BB6B9&timestamp=2016-11-29 09:50:14
+2016-11-29 09:50:14 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 09:50:15 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=A3292E74688FE272E594F7FA27D59BFD&timestamp=2016-11-29 09:50:15
+2016-11-29 09:50:15 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 09:50:35 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr', method='POST', extras={nameValuePair=[Lorg.apache.http.message.BasicNameValuePair;@7843f1d7, statusCode=200}, priority=0} error
+com.mongodb.MongoTimeoutException: Timed out after 30000 ms while waiting for a server that matches WritableServerSelector. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
+	at com.mongodb.connection.BaseCluster.createTimeoutException(BaseCluster.java:369)
+	at com.mongodb.connection.BaseCluster.selectServer(BaseCluster.java:101)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:75)
+	at com.mongodb.binding.ClusterBinding$ClusterBindingConnectionSource.<init>(ClusterBinding.java:71)
+	at com.mongodb.binding.ClusterBinding.getWriteConnectionSource(ClusterBinding.java:68)
+	at com.mongodb.operation.OperationHelper.withConnection(OperationHelper.java:219)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:168)
+	at com.mongodb.operation.MixedBulkWriteOperation.execute(MixedBulkWriteOperation.java:74)
+	at com.mongodb.Mongo.execute(Mongo.java:781)
+	at com.mongodb.Mongo$2.execute(Mongo.java:764)
+	at com.mongodb.MongoCollectionImpl.executeSingleWriteRequest(MongoCollectionImpl.java:515)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:306)
+	at com.mongodb.MongoCollectionImpl.insertOne(MongoCollectionImpl.java:297)
+	at com.seassoon.utils.MongoDBUtils.insert(MongoDBUtils.java:109)
+	at com.seassoon.clim.medicine.MagicPipline.process(MagicPipline.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:425)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-29 09:55:33 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 09:55:33 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=D4B13A95C381E591BBB52DE236F99871&timestamp=2016-11-29 09:55:33
+2016-11-29 09:55:33 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 09:55:34 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=AE26F34C6547DC166EEB8104A156050F&timestamp=2016-11-29 09:55:34
+2016-11-29 09:55:34 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 09:56:52 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 09:56:52 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=6DAD94CD5B6D25E729CC86E0DB7CD7FF&timestamp=2016-11-29 09:56:52
+2016-11-29 09:56:52 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 09:56:53 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=BB07C7626D2C720623F79AE9A87AB8D1&timestamp=2016-11-29 09:56:53
+2016-11-29 09:56:53 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 10:03:36 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 10:03:36 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=F1112BD4B64F8065D1D2998D57AB1789&timestamp=2016-11-29 10:03:36
+2016-11-29 10:03:36 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 10:03:37 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=580D6829C5207FBC7842241DFD41B31A&timestamp=2016-11-29 10:03:37
+2016-11-29 10:03:37 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 10:04:29 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 10:04:29 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=C8B998E2E6F33190DCD2A89CEC5F3F07&timestamp=2016-11-29 10:04:29
+2016-11-29 10:04:29 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 10:04:30 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=47F346C52ECA5910752EB09B651C2EA7&timestamp=2016-11-29 10:04:30
+2016-11-29 10:04:30 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-29 10:05:14 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-29 10:05:14 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=AA4C198C000A4CDB5AF7092B88F54A83&timestamp=2016-11-29 10:05:14
+2016-11-29 10:05:14 INFO  com.seassoon.clim.dw.NewHttpClient(line-76)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-29 10:05:15 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=EF067DD7CB92FE312F8EA4E80965578C&timestamp=2016-11-29 10:05:15
+2016-11-29 10:05:15 INFO  com.seassoon.clim.dw.NewHttpClient(line-76)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr

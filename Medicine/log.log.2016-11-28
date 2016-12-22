@@ -1,0 +1,679 @@
+2016-11-28 09:22:37 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-128)  - init cache file G://xx/drugs.dxy.cn.urls.txt
+2016-11-28 09:22:37 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 09:22:37 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 09:22:37 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=86E463465391C7BFA61D2A42C25117C7&timestamp=2016-11-28 09:22:37
+2016-11-28 09:22:37 INFO  com.seassoon.clim.dw.NewHttpClient(line-71)  - downloading page http://drugs.dxy.cn/
+2016-11-28 09:22:37 WARN  com.seassoon.clim.dw.NewHttpClient(line-84)  - code error 407	http://drugs.dxy.cn/
+2016-11-28 11:36:37 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 11:36:37 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 11:37:59 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 11:37:59 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 11:38:10 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 11:38:11 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 11:38:52 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 11:38:54 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 11:40:13 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 11:40:13 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 11:41:16 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-128)  - init cache file G://xx/drugs.dxy.cn.urls.txt
+2016-11-28 11:41:16 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 11:41:17 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 11:41:17 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/
+2016-11-28 11:42:20 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1001.htm
+2016-11-28 14:06:36 INFO  us.codecraft.webmagic.scheduler.FileCacheQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 14:07:26 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 14:07:26 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1062.htm
+2016-11-28 14:13:02 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1070.htm
+2016-11-28 14:26:45 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-74)  - init cache scheduler success
+2016-11-28 14:27:13 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 14:27:13 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-134)  - init cache file C:\Users\xx\AppData\Local\Temp\drugs.dxy.cn.urls.txt
+2016-11-28 14:27:13 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-76)  - init cache scheduler success
+2016-11-28 14:29:58 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider null started!
+2016-11-28 14:29:58 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-134)  - init cache file C:\Users\xx\AppData\Local\Temp\null.urls.txt
+2016-11-28 14:29:58 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-76)  - init cache scheduler success
+2016-11-28 14:30:10 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider null started!
+2016-11-28 14:30:10 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-76)  - init cache scheduler success
+2016-11-28 14:30:21 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider null started!
+2016-11-28 14:30:21 INFO  com.seassoon.clim.medicine.FileQueueScheduler(line-76)  - init cache scheduler success
+2016-11-28 15:04:35 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:04:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/
+2016-11-28 15:04:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1001.htm
+2016-11-28 15:04:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1007.htm
+2016-11-28 15:04:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1027.htm
+2016-11-28 15:04:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:04:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1054.htm
+2016-11-28 15:04:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1062.htm
+2016-11-28 15:04:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1070.htm
+2016-11-28 15:04:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1092.htm
+2016-11-28 15:04:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1095.htm
+2016-11-28 15:04:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1100.htm
+2016-11-28 15:04:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1116.htm
+2016-11-28 15:04:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1144.htm
+2016-11-28 15:04:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1157.htm
+2016-11-28 15:04:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 15:04:43 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1164.htm
+2016-11-28 15:05:17 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:05:17 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92223.htm
+2016-11-28 15:05:40 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:05:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92223.htm
+2016-11-28 15:08:08 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:08:08 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92223.htm
+2016-11-28 15:21:51 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:21:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92223.htm
+2016-11-28 15:23:35 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:23:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:23:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:23:45 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:23:45 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:23:46 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:24:38 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:24:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:24:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:25:27 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:25:27 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:25:28 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:25:28 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:25:46 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:25:46 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:25:47 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:25:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:25:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:25:49 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=3
+2016-11-28 15:25:49 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133036.htm
+2016-11-28 15:25:50 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=4
+2016-11-28 15:25:50 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56073.htm
+2016-11-28 15:25:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=5
+2016-11-28 15:25:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133007.htm
+2016-11-28 15:25:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=6
+2016-11-28 15:25:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133082.htm
+2016-11-28 15:25:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=7
+2016-11-28 15:25:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133100.htm
+2016-11-28 15:25:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=8
+2016-11-28 15:25:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/132228.htm
+2016-11-28 15:25:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=9
+2016-11-28 15:25:56 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92864.htm
+2016-11-28 15:31:43 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:31:43 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:31:43 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:31:44 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:31:45 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:31:45 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=3
+2016-11-28 15:31:46 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133036.htm
+2016-11-28 15:31:46 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=4
+2016-11-28 15:31:47 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56073.htm
+2016-11-28 15:31:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=5
+2016-11-28 15:31:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133007.htm
+2016-11-28 15:31:49 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=6
+2016-11-28 15:31:50 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133082.htm
+2016-11-28 15:31:50 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=7
+2016-11-28 15:31:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133100.htm
+2016-11-28 15:31:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=8
+2016-11-28 15:31:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/132228.htm
+2016-11-28 15:31:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=9
+2016-11-28 15:31:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92864.htm
+2016-11-28 15:31:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=10
+2016-11-28 15:31:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/89739.htm
+2016-11-28 15:31:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=11
+2016-11-28 15:31:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56071.htm
+2016-11-28 15:31:56 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=12
+2016-11-28 15:31:57 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56061.htm
+2016-11-28 15:31:57 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 15:31:57 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=止吐药和止恶心药, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 15:32:51 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:32:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:32:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:32:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:32:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:32:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=3
+2016-11-28 15:32:56 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133036.htm
+2016-11-28 15:32:57 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=4
+2016-11-28 15:32:58 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56073.htm
+2016-11-28 15:32:58 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=5
+2016-11-28 15:32:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133007.htm
+2016-11-28 15:32:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=6
+2016-11-28 15:33:00 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133082.htm
+2016-11-28 15:33:01 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=7
+2016-11-28 15:33:01 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133100.htm
+2016-11-28 15:33:02 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=8
+2016-11-28 15:33:02 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/132228.htm
+2016-11-28 15:33:03 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=9
+2016-11-28 15:33:03 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92864.htm
+2016-11-28 15:33:04 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=10
+2016-11-28 15:33:04 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/89739.htm
+2016-11-28 15:33:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=11
+2016-11-28 15:33:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56071.htm
+2016-11-28 15:33:06 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=12
+2016-11-28 15:33:06 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56061.htm
+2016-11-28 15:33:07 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 15:33:07 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=止吐药和止恶心药, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 15:34:19 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:34:19 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:34:21 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:35:33 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:35:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:38:39 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:38:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:38:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:38:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:38:43 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:38:46 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=3
+2016-11-28 15:38:46 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133036.htm
+2016-11-28 15:40:00 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:40:00 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:40:01 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:40:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:40:07 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:40:11 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=3
+2016-11-28 15:40:13 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133036.htm
+2016-11-28 15:40:23 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=4
+2016-11-28 15:40:25 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56073.htm
+2016-11-28 15:40:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=5
+2016-11-28 15:40:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133007.htm
+2016-11-28 15:45:12 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:45:12 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:45:13 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:45:13 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 15:45:13 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 15:45:14 INFO  org.mongodb.driver.cluster(line-76)  - Exception in monitor thread while connecting to server 127.0.0.1:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:63)
+	at com.mongodb.connection.InternalStreamConnection.open(InternalStreamConnection.java:114)
+	at com.mongodb.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:128)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:50)
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:58)
+	... 3 more
+2016-11-28 15:49:13 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:49:13 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:49:16 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:49:18 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 15:49:18 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 15:49:18 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:15}] to 127.0.0.1:27017
+2016-11-28 15:49:18 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=778931}
+2016-11-28 15:49:18 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:16}] to 127.0.0.1:27017
+2016-11-28 15:49:18 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=2
+2016-11-28 15:49:19 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92327.htm
+2016-11-28 15:49:20 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=3
+2016-11-28 15:49:23 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133036.htm
+2016-11-28 15:49:24 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=4
+2016-11-28 15:49:25 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56073.htm
+2016-11-28 15:49:27 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=5
+2016-11-28 15:49:28 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133007.htm
+2016-11-28 15:49:28 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=6
+2016-11-28 15:49:29 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133082.htm
+2016-11-28 15:49:30 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=7
+2016-11-28 15:49:31 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133100.htm
+2016-11-28 15:49:32 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=8
+2016-11-28 15:49:33 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/132228.htm
+2016-11-28 15:49:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=9
+2016-11-28 15:49:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92864.htm
+2016-11-28 15:49:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=10
+2016-11-28 15:49:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/89739.htm
+2016-11-28 15:49:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=11
+2016-11-28 15:49:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56071.htm
+2016-11-28 15:49:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm?page=12
+2016-11-28 15:49:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/56061.htm
+2016-11-28 15:50:23 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:50:23 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:50:25 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94363.htm
+2016-11-28 15:50:48 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 15:50:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/
+2016-11-28 15:50:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1001.htm
+2016-11-28 15:50:49 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1007.htm
+2016-11-28 15:50:49 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1027.htm
+2016-11-28 15:50:50 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1050.htm
+2016-11-28 15:50:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1054.htm
+2016-11-28 15:50:51 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1062.htm
+2016-11-28 15:50:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1070.htm
+2016-11-28 15:50:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1092.htm
+2016-11-28 15:50:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1095.htm
+2016-11-28 15:50:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1100.htm
+2016-11-28 15:50:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1116.htm
+2016-11-28 15:50:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1144.htm
+2016-11-28 15:50:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1157.htm
+2016-11-28 15:50:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 15:50:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1164.htm
+2016-11-28 15:50:56 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1165.htm
+2016-11-28 15:50:57 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1171.htm
+2016-11-28 15:50:58 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1178.htm
+2016-11-28 15:50:58 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1188.htm
+2016-11-28 15:50:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1200.htm
+2016-11-28 15:50:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1222.htm
+2016-11-28 15:51:00 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1227.htm
+2016-11-28 15:51:00 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1251.htm
+2016-11-28 15:51:01 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm
+2016-11-28 15:51:01 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1311.htm
+2016-11-28 15:51:02 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1320.htm
+2016-11-28 15:51:02 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1333.htm
+2016-11-28 15:51:03 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1355.htm
+2016-11-28 15:51:03 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1367.htm
+2016-11-28 15:51:04 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1379.htm
+2016-11-28 15:51:04 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1387.htm
+2016-11-28 15:51:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1394.htm
+2016-11-28 15:51:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1405.htm
+2016-11-28 15:51:06 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1411.htm
+2016-11-28 15:51:06 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1416.htm
+2016-11-28 15:51:07 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1425.htm
+2016-11-28 15:51:07 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1434.htm
+2016-11-28 15:51:08 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1455.htm
+2016-11-28 15:51:08 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1469.htm
+2016-11-28 15:51:09 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1474.htm
+2016-11-28 15:51:09 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1485.htm
+2016-11-28 15:51:10 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1494.htm
+2016-11-28 16:21:25 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 16:21:25 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1001.htm?page=7
+2016-11-28 17:37:56 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:37:56 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94993.htm
+2016-11-28 17:38:13 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:38:13 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94993.htm
+2016-11-28 17:38:28 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:38:28 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94993.htm
+2016-11-28 17:52:34 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:52:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm
+2016-11-28 17:52:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/117137.htm
+2016-11-28 17:52:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=2
+2016-11-28 17:52:36 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 17:52:36 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 17:52:36 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:21}] to 127.0.0.1:27017
+2016-11-28 17:52:36 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=531492}
+2016-11-28 17:52:36 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:22}] to 127.0.0.1:27017
+2016-11-28 17:52:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/87088.htm
+2016-11-28 17:52:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=3
+2016-11-28 17:52:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/119862.htm
+2016-11-28 17:52:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=4
+2016-11-28 17:52:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=5
+2016-11-28 17:52:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/119876.htm
+2016-11-28 17:52:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/119847.htm
+2016-11-28 17:52:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=6
+2016-11-28 17:52:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=7
+2016-11-28 17:52:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/133020.htm
+2016-11-28 17:52:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=8
+2016-11-28 17:52:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/125004.htm
+2016-11-28 17:52:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/124946.htm
+2016-11-28 17:52:38 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=9
+2016-11-28 17:52:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/124836.htm
+2016-11-28 17:52:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=10
+2016-11-28 17:52:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=11
+2016-11-28 17:52:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/124858.htm
+2016-11-28 17:52:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=12
+2016-11-28 17:52:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/124886.htm
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/124910.htm
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=13
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=14
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/124926.htm
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/116887.htm
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=15
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/94808.htm
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=16
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/92515.htm
+2016-11-28 17:52:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=17
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/91118.htm
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=18
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=19
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/90277.htm
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/88562.htm
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=20
+2016-11-28 17:52:41 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/58621.htm
+2016-11-28 17:52:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1286.htm?page=21
+2016-11-28 17:52:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/149355.htm
+2016-11-28 17:52:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:52:42 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=利尿剂, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:53:42 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:53:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 17:53:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:53:42 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 17:53:42 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:53:43 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 17:53:43 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 17:53:43 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:23}] to 127.0.0.1:27017
+2016-11-28 17:53:43 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=2175069}
+2016-11-28 17:53:43 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:24}] to 127.0.0.1:27017
+2016-11-28 17:54:10 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:54:10 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 17:54:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:54:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 17:54:40 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:55:53 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:55:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 17:56:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 17:56:53 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:56:53 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:58:29 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:58:29 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 17:58:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 17:58:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:58:34 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:58:52 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:58:52 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 17:58:56 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 17:58:59 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 17:58:59 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 17:58:59 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:25}] to 127.0.0.1:27017
+2016-11-28 17:58:59 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=729554}
+2016-11-28 17:58:59 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:26}] to 127.0.0.1:27017
+2016-11-28 17:58:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:58:59 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:59:22 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:59:22 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 17:59:30 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 17:59:33 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 17:59:33 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 17:59:33 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:27}] to 127.0.0.1:27017
+2016-11-28 17:59:33 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=905701}
+2016-11-28 17:59:33 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:28}] to 127.0.0.1:27017
+2016-11-28 17:59:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 17:59:34 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 17:59:39 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 17:59:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:01:11 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:01:11 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:01:59 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:01:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:01:59 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:02:00 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:02:00 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:02:00 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:29}] to 127.0.0.1:27017
+2016-11-28 18:02:00 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=779208}
+2016-11-28 18:02:00 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:30}] to 127.0.0.1:27017
+2016-11-28 18:02:00 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page 
+2016-11-28 18:02:00 ERROR us.codecraft.webmagic.Spider(line-326)  - process request Request{url='', method='null', extras={secondLevel=全身用蛋白同化药物, firstLevel=null, statusCode=0}, priority=0} error
+java.lang.IllegalStateException: Target host is null
+	at org.apache.http.util.Asserts.notNull(Asserts.java:46)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:92)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 18:02:26 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:02:26 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:02:54 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:03:31 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:03:31 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:03:49 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:03:54 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:03:54 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:03:54 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:31}] to 127.0.0.1:27017
+2016-11-28 18:03:54 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=673797}
+2016-11-28 18:03:54 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:32}] to 127.0.0.1:27017
+2016-11-28 18:04:06 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:04:06 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:04:06 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:04:07 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:04:07 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:04:07 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:33}] to 127.0.0.1:27017
+2016-11-28 18:04:07 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1393920}
+2016-11-28 18:04:07 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:34}] to 127.0.0.1:27017
+2016-11-28 18:07:05 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:07:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:07:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:07:06 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:07:06 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:07:06 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:35}] to 127.0.0.1:27017
+2016-11-28 18:07:06 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1272142}
+2016-11-28 18:07:06 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:36}] to 127.0.0.1:27017
+2016-11-28 18:10:03 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:10:03 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:10:29 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:10:29 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:15:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:15:56 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:15:56 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:15:56 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:37}] to 127.0.0.1:27017
+2016-11-28 18:15:56 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1597529}
+2016-11-28 18:15:56 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:38}] to 127.0.0.1:27017
+2016-11-28 18:17:12 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:17:12 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:18:07 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:18:07 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:18:34 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:18:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/category/1159.htm
+2016-11-28 18:18:34 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/127673.htm
+2016-11-28 18:18:35 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:18:35 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:18:35 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:39}] to 127.0.0.1:27017
+2016-11-28 18:18:35 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=691273}
+2016-11-28 18:18:35 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:40}] to 127.0.0.1:27017
+2016-11-28 18:18:35 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 18:18:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/105786.htm
+2016-11-28 18:18:36 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/90188.htm
+2016-11-28 18:18:37 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/132948.htm
+2016-11-28 18:44:28 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:44:28 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 18:44:48 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:44:48 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:44:48 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:41}] to 127.0.0.1:27017
+2016-11-28 18:44:48 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=599733}
+2016-11-28 18:44:48 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:42}] to 127.0.0.1:27017
+2016-11-28 18:44:48 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 18:45:23 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:45:23 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 18:46:14 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:46:15 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 18:46:39 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:46:40 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:46:40 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:43}] to 127.0.0.1:27017
+2016-11-28 18:46:40 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=830804}
+2016-11-28 18:46:40 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:44}] to 127.0.0.1:27017
+2016-11-28 18:46:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 18:56:05 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:56:05 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 18:57:55 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:57:55 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:57:55 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:45}] to 127.0.0.1:27017
+2016-11-28 18:57:55 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=553130}
+2016-11-28 18:57:55 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:46}] to 127.0.0.1:27017
+2016-11-28 18:57:55 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 18:59:16 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 18:59:16 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 18:59:16 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 18:59:16 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 18:59:16 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:47}] to 127.0.0.1:27017
+2016-11-28 18:59:16 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=800291}
+2016-11-28 18:59:16 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:48}] to 127.0.0.1:27017
+2016-11-28 18:59:17 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:01:39 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:01:39 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:01:39 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:01:39 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:01:39 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:49}] to 127.0.0.1:27017
+2016-11-28 19:01:40 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=582534}
+2016-11-28 19:01:40 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:50}] to 127.0.0.1:27017
+2016-11-28 19:01:40 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:02:06 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:02:07 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:02:20 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:02:20 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:02:20 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:51}] to 127.0.0.1:27017
+2016-11-28 19:02:20 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=597790}
+2016-11-28 19:02:20 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:52}] to 127.0.0.1:27017
+2016-11-28 19:02:20 INFO  us.codecraft.webmagic.downloader.HttpClientDownloader(line-87)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:05:38 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:05:38 INFO  com.seassoon.clim.dw.NewHttpClient(line-73)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:05:38 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:05:38 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:05:38 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:53}] to 127.0.0.1:27017
+2016-11-28 19:05:38 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=564781}
+2016-11-28 19:05:38 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:54}] to 127.0.0.1:27017
+2016-11-28 19:05:39 INFO  com.seassoon.clim.dw.NewHttpClient(line-73)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:06:58 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:06:58 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=BDC4FE845D61A22CE03BDE71A9E31D39&timestamp=2016-11-28 19:06:58
+2016-11-28 19:06:58 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:06:58 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:06:58 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:06:58 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:55}] to 127.0.0.1:27017
+2016-11-28 19:06:58 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=972277}
+2016-11-28 19:06:58 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:56}] to 127.0.0.1:27017
+2016-11-28 19:06:59 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=97A2485E429BCD48F417C7877B212905&timestamp=2016-11-28 19:06:59
+2016-11-28 19:06:59 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:12:52 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:12:52 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=3F56DCB03B78055F3E239E3D5ACE5161&timestamp=2016-11-28 19:12:52
+2016-11-28 19:12:52 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:12:53 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:12:53 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:12:53 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:57}] to 127.0.0.1:27017
+2016-11-28 19:12:53 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=916797}
+2016-11-28 19:12:53 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:58}] to 127.0.0.1:27017
+2016-11-28 19:12:53 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=4C04BCF7D8A70E61B55BB6B002ABB000&timestamp=2016-11-28 19:12:53
+2016-11-28 19:12:53 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:12:53 WARN  com.seassoon.clim.dw.NewHttpClient(line-88)  - code error 501	http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:13:05 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:13:05 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=B396B593331115C6BA6481BA47B1D760&timestamp=2016-11-28 19:13:05
+2016-11-28 19:13:05 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:13:06 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:13:06 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:13:06 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:59}] to 127.0.0.1:27017
+2016-11-28 19:13:06 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1627488}
+2016-11-28 19:13:06 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:60}] to 127.0.0.1:27017
+2016-11-28 19:13:06 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=C6243C136BF4135372941123F320D6E5&timestamp=2016-11-28 19:13:06
+2016-11-28 19:13:06 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:13:15 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:13:15 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=5BF8AEE1A6F94E187A64BD512E3E9ECD&timestamp=2016-11-28 19:13:15
+2016-11-28 19:13:15 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:13:16 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:13:16 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:13:16 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:61}] to 127.0.0.1:27017
+2016-11-28 19:13:16 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1427207}
+2016-11-28 19:13:16 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:62}] to 127.0.0.1:27017
+2016-11-28 19:13:16 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=1C8604010ED1B7DC42ADCD84A9AE2FF9&timestamp=2016-11-28 19:13:16
+2016-11-28 19:13:16 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
+2016-11-28 19:28:08 INFO  us.codecraft.webmagic.Spider(line-307)  - Spider drugs.dxy.cn started!
+2016-11-28 19:28:08 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=4217B2155ED547AA98F836FC87F600D8&timestamp=2016-11-28 19:28:08
+2016-11-28 19:28:08 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/drug/4024.htm
+2016-11-28 19:28:08 INFO  org.mongodb.driver.cluster(line-71)  - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=1500000}
+2016-11-28 19:28:08 INFO  org.mongodb.driver.cluster(line-71)  - No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-11-28 19:28:08 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:1, serverValue:63}] to 127.0.0.1:27017
+2016-11-28 19:28:08 INFO  org.mongodb.driver.cluster(line-71)  - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 10]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=922067}
+2016-11-28 19:28:08 INFO  org.mongodb.driver.connection(line-71)  - Opened connection [connectionId{localValue:2, serverValue:64}] to 127.0.0.1:27017
+2016-11-28 19:28:09 INFO  com.mayidaili.test.Ip(line-67)  - MYH-AUTH-MD5 app_key=243167619&sign=A91E5D11B2D0B4F4D10FC347456E355A&timestamp=2016-11-28 19:28:09
+2016-11-28 19:28:09 INFO  com.seassoon.clim.dw.NewHttpClient(line-75)  - downloading page http://drugs.dxy.cn/dwr/call/plaincall/DrugUtils.showDetail.dwr
