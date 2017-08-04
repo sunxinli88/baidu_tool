@@ -1,4 +1,4 @@
-package com.seassoon.test.test;
+package com.seassoon.test;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -23,17 +23,17 @@ public class test12 {
 
 		DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
-		String stringDate = "2011-3-14 9:6:20"; // ¶¨Òå×Ö·û´®ÀàĞÍµÄÈÕÆÚ/Ê±¼ä
+		String stringDate = "2011-3-14 9:6:20"; // ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íµï¿½ï¿½ï¿½ï¿½ï¿½/Ê±ï¿½ï¿½
 
-		System.out.println("×Ö·û´®ÀàĞÍµÄÈÕÆÚ/Ê±¼äÈçÏÂ£º");
+		System.out.println("ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íµï¿½ï¿½ï¿½ï¿½ï¿½/Ê±ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½");
 
-		System.out.println(stringDate); // Êä³ö×Ö·û´®ÀàĞÍµÄÈÕÆÚ/Ê±¼ä
+		System.out.println(stringDate); // ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íµï¿½ï¿½ï¿½ï¿½ï¿½/Ê±ï¿½ï¿½
 
-		Date date = null; // ¶¨ÒåDate¶ÔÏó
+		Date date = null; // ï¿½ï¿½ï¿½ï¿½Dateï¿½ï¿½ï¿½ï¿½
 
 		try {
 
-			date = df.parse(stringDate); // ½«×Ö·û´®ÀàĞÍµÄÈÕÆÚ/Ê±¼ä½âÎöÎªDateÀàĞÍ
+			date = df.parse(stringDate); // ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íµï¿½ï¿½ï¿½ï¿½ï¿½/Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ÎªDateï¿½ï¿½ï¿½ï¿½
 
 		} catch (ParseException e) {
 
@@ -41,7 +41,7 @@ public class test12 {
 
 		}
 
-		System.out.println("½âÎöºóÉú³ÉµÄDate¶ÔÏó±íÊ¾µÄÈÕÆÚ/Ê±¼äÈçÏÂ£º");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Éµï¿½Dateï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½/Ê±ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½");
 
 		System.out.println(date);
 		
